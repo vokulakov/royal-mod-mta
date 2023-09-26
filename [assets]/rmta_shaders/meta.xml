@@ -1,0 +1,10 @@
+<meta>
+	<oop>true</oop>
+	
+	<script type="client" src="export.lua"/>
+	<export type="client" function="createShader"/>
+
+	<file src="shaders/blur.fx" />
+	<file src="shaders/mask3d.fx" />
+	<file src="shaders/tex_matrix.fx" />
+</meta>

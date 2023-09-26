@@ -1,0 +1,17 @@
+<meta>
+	
+	<!-- RADAR -->
+	<script type="client" src="client/main.lua"/>
+	<file src="assets/radar_cover.png"/>
+	<file src="assets/radar_mask.png"/>
+	<file src="assets/radar_map.jpg"/>
+	<file src="assets/water.jpg"/>
+
+	<file src="assets/icon_gps.png"/>
+	<file src="assets/icon_car.png"/>
+
+	<!-- BLIPS -->
+	<file src="assets/blip/2.png"/>
+	<file src="assets/blip/0.png"/>
+	<file src="assets/blip/55.png"/>
+</meta>

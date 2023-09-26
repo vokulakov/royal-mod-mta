@@ -1,0 +1,8 @@
+<meta>
+	<script type="client" src="client/cruise.lua"/>
+	<script type="client" src="client/radio.lua"/>
+	
+	<script type="server" src="server/cruise.lua"/>
+	<script type="server" src="server/lock.lua"/>
+	<script type="server" src="server/server.lua"/>
+</meta>

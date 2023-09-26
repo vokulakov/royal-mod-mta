@@ -1,0 +1,9 @@
+<meta>
+	<oop>true</oop>
+	
+	<script type="client" src="export.lua"/>
+	<export type="client" function="playSound"/>
+
+	<file src="sounds/sound_welcome.mp3"/>
+	<file src="sounds/sound_mission.mp3"/>
+</meta>

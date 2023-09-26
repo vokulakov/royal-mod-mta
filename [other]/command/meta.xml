@@ -1,0 +1,4 @@
+<meta>
+	<script type="client" src="radio.lua"/>
+	<script type="server" src="server/spawn.lua"/>
+</meta>

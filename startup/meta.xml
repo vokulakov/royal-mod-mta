@@ -1,0 +1,5 @@
+<meta>
+	<script type="shared" src="assets/setups.lua" cache = "false" />
+	<script type="client" src="client/client.lua" cache = "false" />
+	<script type="server" src="server/startup.lua"/>
+</meta>

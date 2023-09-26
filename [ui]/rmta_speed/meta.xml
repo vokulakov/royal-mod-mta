@@ -1,0 +1,34 @@
+<meta>
+	<script src="client/speed.lua" type="client" cache="false" />
+	
+	<file src="assets/turnlight_l.png"/>
+	<file src="assets/turnlight_r.png"/>
+	<file src="assets/turnlight_l_a.png"/>
+	<file src="assets/turnlight_r_a.png"/>
+	<file src="assets/lights_on.png"/>
+	<file src="assets/lights_off.png"/>
+	<file src="assets/fuel.png"/>
+	<file src="assets/fuel_no.png"/>
+	<file src="assets/fuel_empty.png"/>
+	<file src="assets/engine_off.png"/>
+	<file src="assets/engine_on.png"/>
+	<file src="assets/door_close.png"/>
+	<file src="assets/door_open.png"/>
+	<file src="assets/checkengine.png"/>
+	<file src="assets/cc_on.png"/>
+	<file src="assets/cc_off.png"/>
+	<file src="assets/s_speedo.png"/>
+	<file src="assets/s_tahometer.png"/>
+	<file src="assets/needle_s.png"/>
+	<file src="assets/needle_t.png"/>
+	<file src="assets/s_fuel.png"/>
+	<file src="assets/s_fuel_a.png"/>
+	<file src="assets/rent.png"/>
+	<file src="assets/s_circle1.png"/>
+	<file src="assets/s_circle2.png"/>
+	<file src="assets/s_circle3.png"/>
+	<file src="assets/s_mask.png"/>
+	<file src="assets/t_circle1.png"/>
+	<file src="assets/t_circle2.png"/>
+	<file src="assets/t_mask.png"/>
+</meta>

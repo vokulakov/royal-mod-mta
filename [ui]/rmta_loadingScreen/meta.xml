@@ -1,0 +1,6 @@
+<meta>
+	<download_priority_group>120</download_priority_group>
+	<script type="client" src="client/main.lua"/>
+	<file src="assets/logo.png"/>
+	<file src="assets/load.png"/>
+</meta>

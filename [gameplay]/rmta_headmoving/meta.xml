@@ -1,0 +1,4 @@
+<meta>
+	<info author="karer" version="1.1" type="script" name="head pointing" description="point your head where you look" />
+	<script src="head.lua" type="client" />
+</meta>

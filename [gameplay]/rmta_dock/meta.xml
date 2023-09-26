@@ -1,0 +1,31 @@
+<meta>
+	<oop>true</oop>
+
+	<!-- Настройки -->
+	<script type="shared" src="assets/setups.lua"/>
+	<script type="client" src="assets/element_button.lua"/>
+
+	<!-- Сценарий -->
+	<script type="client" src="client/gui.lua"/>
+	<script type="client" src="client/client.lua"/>
+	<script type="server" src="server/server.lua"/>
+
+	<!-- Текстуры -->
+	<file src="assets/gui/bg.png"/>
+	<file src="assets/gui/b_close.png"/>
+	<file src="assets/gui/b_close_a.png"/>
+	<file src="assets/gui/box.png"/>
+	<file src="assets/gui/box_a.png"/>
+	<file src="assets/gui/1.png"/>
+	<file src="assets/gui/2.png"/>
+	<file src="assets/gui/3.png"/>
+	<file src="assets/gui/b_start.png"/>
+	<file src="assets/gui/b_start_a.png"/>
+	<file src="assets/gui/img_1.png"/>
+	<file src="assets/gui/img_2.png"/>
+	<file src="assets/gui/img_3.png"/>
+
+	<file src="assets/gui/bg2.png"/>
+	<file src="assets/gui/btn.png"/>
+	<file src="assets/gui/btn_a.png"/>
+</meta>

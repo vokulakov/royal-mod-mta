@@ -1,0 +1,28 @@
+<meta>
+	<!-- UI COMPONENTS -->
+	<script src="client/components/editbox.lua" type="client" cache="false" />
+	<script src="client/components/chekbox.lua" type="client" cache="false" />
+
+	<!-- GUI -->
+	<file src="assets/bg.png"/>
+	<file src="assets/logo.png"/>
+	<file src="assets/button_login.png"/>
+	<file src="assets/button_login_a.png"/>
+	<file src="assets/button_reg.png"/>
+	<file src="assets/button_reg_a.png"/>
+	<file src="assets/checkbox.png"/>
+	<file src="assets/checkbox_a.png"/>
+	<file src="assets/editbox.png"/>
+	<file src="assets/editbox_a.png"/>
+	<file src="assets/iaccept.png"/>
+	<file src="assets/iarrow.png"/>
+	<file src="assets/ierror.png"/>
+	<file src="assets/line.png"/>
+
+	
+	<!-- SCRIPTS -->
+	<script src="client/login.lua" type="client" cache="false" />
+	<script src="client/register.lua" type="client" cache="false" />
+	<script src="server/server.lua" type="server" />
+	
+</meta>

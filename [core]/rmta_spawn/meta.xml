@@ -1,0 +1,4 @@
+﻿<meta>
+	<download_priority_group>2</download_priority_group>
+	<script src="server/server.lua" type="server" />
+</meta>

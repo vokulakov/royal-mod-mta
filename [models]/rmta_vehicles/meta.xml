@@ -1,0 +1,11 @@
+<meta>
+	<script src="main.lua" type="client" cache="false" />
+	
+	<file src="assets/car1.txd" type="client"/>
+	<file src="assets/car1.dff" type="client"/>
+	<file src="assets/car2.txd" type="client"/>
+	<file src="assets/car2.dff" type="client"/>
+
+	<file src="assets/forklift/forklift.txd" type="client"/>
+	<file src="assets/forklift/forklift.dff" type="client"/>
+</meta>

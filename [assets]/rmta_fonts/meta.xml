@@ -1,0 +1,10 @@
+<meta>
+	<script type="client" src="exports.lua" cache = "false" />
+	<export type="client" function="createFont"/>
+	<export type="client" function="createFontGui"/>
+	<!-- Шрифты -->
+	<file src="fonts/SPEED_0.ttf" />
+	<file src="fonts/RR.ttf" />
+	<file src="fonts/RB.ttf" />
+	<file src="fonts/RL.ttf" />
+</meta>

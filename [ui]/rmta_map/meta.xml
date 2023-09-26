@@ -1,0 +1,13 @@
+<meta>
+	<min_mta_version client="1.5" server="1.5" />
+	<script src="client/main.lua" type="client" cache="false" />
+	<script src="client/blips.lua" type="client" cache="false" />
+	
+	<file src="assets/map.jpg"/>
+	<file src="assets/water.jpg"/>
+	<file src="assets/local.png"/>
+	
+	<file src="assets/blips/0.png"/>
+	<file src="assets/blips/12.png"/>
+	<file src="assets/blips/18.png"/>
+</meta>

@@ -1,0 +1,24 @@
+<meta>
+	<oop>true</oop>
+	
+	<script type="client" src="export.lua"/>
+
+	<export type="client" function="createHelpButton"/>
+	<export type="client" function="createRectangle"/>
+	<export type="client" function="setRectangleSize"/>
+	
+	<file src="assets/panel/pane.png" />
+	<file src="assets/panel/round_1.png" />
+	<file src="assets/panel/round_2.png" />
+	<file src="assets/panel/round_3.png" />
+	<file src="assets/panel/round_4.png" />
+
+	<!-- BUTTONS -->
+	<file src="assets/b_enter.png" />
+	<file src="assets/b_f11.png" />
+	<file src="assets/b_space.png" />
+	
+	<!-- MOUSE -->
+	<file src="assets/mouse_left.png" />
+	<file src="assets/mouse_wheel.png" />
+</meta>

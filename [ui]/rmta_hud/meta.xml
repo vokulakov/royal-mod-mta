@@ -1,0 +1,15 @@
+<meta>
+	<min_mta_version client="1.5.5" server="1.5.5" />
+	<script type="client" src="client/main.lua"/>
+	
+	<file src="assets/bg.png"/>
+	<file src="assets/hud_mask.png"/>
+	<file src="assets/hud_low.png"/>
+	<file src="assets/hud_m.png"/>
+	<file src="assets/hud_h.png"/>
+	<file src="assets/hud_heal.png"/>
+	<file src="assets/hud_msg.png"/>
+	<file src="assets/hud_l.png"/>
+	<file src="assets/hud_level.png"/>
+	<file src="assets/hud_c.png"/>
+</meta>
